@@ -4,12 +4,10 @@ linking to external resources instead of including content in-line.
 See 'release/text/readme.html' for the end user read-me.
 -->
 
-Blender
+Yujin_Blender
 =======
 
-Blender is the free and open source 3D creation suite.
-It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
-motion tracking and video editing.
+Yujin Blender는 Yujin Engine의 모델링 프로그램으로 Blender를 C++기반에서 Rust, Wave로 개조한 프로그램이다.
 
 ![Blender screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Blender screenshot")
 
